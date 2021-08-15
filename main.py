@@ -14,3 +14,4 @@ while sayi < 10:
     sayi += 1
 
 #0.3 saniye aralıklarla 10 adet ekran görüntüsü alıyor.
+
